@@ -1,9 +1,9 @@
 from et_balik import products_object_list as et_balik_prods
+#from su_icecek import products_object_list as su_icecek_prods
 from meyve_sebze import products_object_list as meyve_sebze_prods
-from su_icecek import products_object_list as su_icecek_prods
 import json
 
-all_products = su_icecek_prods + meyve_sebze_prods + et_balik_prods
+all_products = meyve_sebze_prods 
 
 with open("sample.json" ,"w") as out:
     out.write("[")
