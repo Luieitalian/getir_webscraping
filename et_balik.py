@@ -1,14 +1,11 @@
+from utils import get_products
+from utils import write_to_json
 from selenium import webdriver
-from selenium.webdriver.common.by import By
-from utils import model_products
 
-product_element_identifiers = {"name": "jFvYQy", "img": "hDQjIU", "price": "jmELbE", "amount": "dmgfcc"}
+et_balik_url = "https://getir.com/buyuk/kategori/et-tavuk-balik-P1593VdPBd/"
+identifiers = {"article": "ccXlDA",
+               "name": "jFvYQy", "img": "hDQjIU", "price": "jmELbE", "amount": "dmgfcc"}
 
 driver = webdriver.Firefox()
-driver.get("https://getir.com/buyuk/kategori/et-tavuk-balik-P1593VdPBd/")
-
-products = driver.find_elements(By.CLASS_NAME, "ccXlDA")
-driver.implicitly_wait(15)
-
-products_object_list = model_products(products, product_element_identifiers)
+write_to_json("et_balik/et_balik", get_products(et_balik_url, identifiers, driver))
 driver.quit()
