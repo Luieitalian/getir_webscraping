@@ -6,4 +6,4 @@ This is my web scraping project to get products from [**getir.com**](https://get
 ## Todos
 - [x] Download & save product images 
 - [x] Fix JSON formatting
-- [ ] Add all of the categories
+- [x] Add all of the categories
