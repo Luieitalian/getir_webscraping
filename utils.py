@@ -21,9 +21,9 @@ def model_products(products, ids: dict) -> list:
 
 
 def get_products(url: str, ids: dict, driver) -> list:
+    driver.implicitly_wait(10)
     driver.get(url)
     products = driver.find_elements(By.CLASS_NAME, ids["article"])
-
     return model_products(
         products, ids)
 
@@ -50,7 +50,7 @@ def save_images(category: str) -> None:
             src = obj["img"]
             srcs.append(src)
     for src in srcs:
-        img_name = src.split("/")[4]
+        img_name = src.split("/")[4].split("?")[0]
         if not os.path.isdir(f"{category}/images"):
             os.mkdir(f"{category}/images")
         urllib.request.urlretrieve(src, f"{category}/images/{img_name}")
