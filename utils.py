@@ -1,5 +1,7 @@
 from selenium.webdriver.common.by import By
 import json
+import urllib.request
+import os
 
 
 def model_products(products, ids: dict) -> list:
@@ -26,8 +28,10 @@ def get_products(url: str, ids: dict, driver) -> list:
         products, ids)
 
 
-def write_to_json(name: str, prods: list) -> None:
-    with open(f"{name}.json", "w") as out:
+def write_to_json(category: str, prods: list) -> None:
+    if not os.path.isdir(f"{category}"):
+        os.mkdir(f"{category}")
+    with open(f"{category}/{category}.json", "w") as out:
         out.write("[")
         for prod_obj in prods:
             json_object = json.dumps(prod_obj, indent=4)
@@ -36,3 +40,17 @@ def write_to_json(name: str, prods: list) -> None:
         out.write("]")
         out.seek(out.tell() - 2, 0)
         out.write(" ")
+
+
+def save_images(category: str) -> None:
+    srcs = []
+    with open(f"{category}/{category}.json", "r") as fs:
+        json_obj_list = json.load(fs)
+        for i, obj in enumerate(json_obj_list):
+            src = obj["img"]
+            srcs.append(src)
+    for src in srcs:
+        img_name = src.split("/")[4]
+        if not os.path.isdir(f"{category}/images"):
+            os.mkdir(f"{category}/images")
+        urllib.request.urlretrieve(src, f"{category}/images/{img_name}")
