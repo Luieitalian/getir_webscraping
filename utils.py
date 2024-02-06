@@ -34,3 +34,5 @@ def write_to_json(name: str, prods: list) -> None:
             out.write(json_object)
             out.write(",")
         out.write("]")
+        out.seek(out.tell() - 2, 0)
+        out.write(" ")
