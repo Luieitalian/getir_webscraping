@@ -1,0 +1,756 @@
+[{
+    "name": "Tad\u0131m Yer F\u0131st\u0131kl\u0131",
+    "img": "https://market-product-images-cdn.getirapi.com/product/da6381f0-1f58-4835-9eee-f17c5517c841.jpg",
+    "price": "\u20ba7,80",
+    "amount": "30 g"
+},{
+    "name": "Tad\u0131m Antep F\u0131st\u0131kl\u0131",
+    "img": "https://market-product-images-cdn.getirapi.com/product/f17ee3a8-9575-4eb6-b696-6489800d5a8c.jpg",
+    "price": "\u20ba24,30",
+    "amount": "27 g"
+},{
+    "name": "Tad\u0131m F\u0131nd\u0131kl\u0131",
+    "img": "https://market-product-images-cdn.getirapi.com/product/1e1a7f41-6455-499d-9a0e-d916eef1281d.jpg",
+    "price": "\u20ba11,60",
+    "amount": "30 g"
+},{
+    "name": "Tad\u0131m Hurmal\u0131 Bar",
+    "img": "https://market-product-images-cdn.getirapi.com/product/fe06b693-540d-4475-92ea-7a460d354423.jpg",
+    "price": "\u20ba11,70",
+    "amount": "40 g"
+},{
+    "name": "Peyman Yer F\u0131st\u0131kl\u0131",
+    "img": "https://market-product-images-cdn.getirapi.com/product/f190b84b-45ea-404b-848e-ccfccecbda1c.jpg",
+    "price": "\u20ba11,50",
+    "amount": "30 g"
+},{
+    "name": "Peyman Antep F\u0131st\u0131kl\u0131",
+    "img": "https://market-product-images-cdn.getirapi.com/product/ab87c2dc-6c2e-411f-88b8-17619053b990.jpg",
+    "price": "\u20ba24,20",
+    "amount": "27 g"
+},{
+    "name": "Peyman F\u0131nd\u0131kl\u0131",
+    "img": "https://market-product-images-cdn.getirapi.com/product/bf20ab16-530b-4d74-a759-0d0647dca92a.jpg",
+    "price": "\u20ba11,50",
+    "amount": "30 g"
+},{
+    "name": "Saf Chocolate Chip Energy Bar",
+    "img": "https://market-product-images-cdn.getirapi.com/product/273fd849-2948-45bd-89c6-f4d22f917660.jpg",
+    "price": "\u20ba35,70",
+    "amount": "50 g"
+},{
+    "name": "Nesfit Karamelli Bar",
+    "img": "https://market-product-images-cdn.getirapi.com/product/71c04546-a4f4-4df4-89da-9b239c183b18.jpg",
+    "price": "\u20ba17,50",
+    "amount": "23,5 g"
+},{
+    "name": "Nesfit \u00c7ilekli",
+    "img": "https://market-product-images-cdn.getirapi.com/product/aaebd3bd-73d7-4079-b291-3617f74ed09b.jpg",
+    "price": "\u20ba17,50",
+    "amount": "23,5 g"
+},{
+    "name": "Nesfit \u00c7ikolatal\u0131",
+    "img": "https://market-product-images-cdn.getirapi.com/product/2ed4075f-4a27-4209-821e-3a0f794e3209.jpg",
+    "price": "\u20ba17,50",
+    "amount": "23,5 g"
+},{
+    "name": "Nesfit Muzlu \u00c7ikolatal\u0131",
+    "img": "https://market-product-images-cdn.getirapi.com/product/924ad27e-fa33-4d47-a7ed-d34be7787e0d.jpg",
+    "price": "\u20ba17,50",
+    "amount": "23,5 g"
+},{
+    "name": "Nesfit Beyaz \u00c7ikolatal\u0131 Bar",
+    "img": "https://market-product-images-cdn.getirapi.com/product/53fdff51-316b-401b-b192-74417c64d291.jpg",
+    "price": "\u20ba17,50",
+    "amount": "22,5 g"
+},{
+    "name": "Nesquik Kakaolu Bar",
+    "img": "https://market-product-images-cdn.getirapi.com/product/69c10427-c8c3-4cdf-935a-99be2efbfb1a.jpg",
+    "price": "\u20ba17,50",
+    "amount": "25 g"
+},{
+    "name": "Fellas Antep F\u0131st\u0131kl\u0131",
+    "img": "https://market-product-images-cdn.getirapi.com/product/ab84e9d0-34a6-4677-b971-5b4f5e24a2bd.jpg",
+    "price": "\u20ba33,99",
+    "amount": "40 g"
+},{
+    "name": "Fellas Duble Kakao",
+    "img": "https://market-product-images-cdn.getirapi.com/product/8c774bd8-79a6-452b-af5b-dab6c3de9109.jpg",
+    "price": "\u20ba28,99",
+    "amount": "32 g"
+},{
+    "name": "Fellas F\u0131nd\u0131k ve Kakao",
+    "img": "https://market-product-images-cdn.getirapi.com/product/0311cfab-2c6e-411c-9a5c-9f4634742204.jpg",
+    "price": "\u20ba28,99",
+    "amount": "32 g"
+},{
+    "name": "Fellas Hindistan Cevizli",
+    "img": "https://market-product-images-cdn.getirapi.com/product/e67c946e-ea93-4506-9eb6-f7c881fba966.jpg",
+    "price": "\u20ba46,50",
+    "amount": "45 g"
+},{
+    "name": "Corny Bar",
+    "img": "https://market-product-images-cdn.getirapi.com/product/c28864f4-9a65-42a0-b514-3ffa9e2a238a.jpg",
+    "price": "\u20ba11,50",
+    "amount": "20 g"
+},{
+    "name": "Corny Bar",
+    "img": "https://market-product-images-cdn.getirapi.com/product/554f0dcf-9eb6-4833-982c-b7a876705e34.jpg",
+    "price": "\u20ba11,50",
+    "amount": "17 g"
+},{
+    "name": "Z\u00fcber Yer F\u0131st\u0131kl\u0131 Granola Bar",
+    "img": "https://market-product-images-cdn.getirapi.com/product/a15373bd-a2c5-40bb-9add-bd0cf76c4603.jpg",
+    "price": "\u20ba17,40",
+    "amount": "25 g"
+},{
+    "name": "Z\u00fcber Antep F\u0131st\u0131kl\u0131 Granola Bar",
+    "img": "https://market-product-images-cdn.getirapi.com/product/dbe760b7-ba45-49d8-a0cd-90c62595c53f.jpg",
+    "price": "\u20ba22,30",
+    "amount": "25 g"
+},{
+    "name": "Z\u00fcber \u00c7ilekli ve Kakaolu",
+    "img": "https://cdn.getir.com/product/5ce6581ffd9b330001c4a8f9_tr_1582124540830.jpeg",
+    "price": "\u20ba31,50",
+    "amount": "40 g"
+},{
+    "name": "Z\u00fcber F\u0131nd\u0131kl\u0131 Meyve Bar",
+    "img": "https://cdn.getir.com/product/5c40c45fd673cf0001ad2aaf_tr_1624876341725.jpeg",
+    "price": "\u20ba31,50",
+    "amount": "40 g"
+},{
+    "name": "Z\u00fcber F\u0131st\u0131k Ezmeli Bar",
+    "img": "https://market-product-images-cdn.getirapi.com/product/73546d06-3343-4e30-b85f-cd304a8f8f17.jpg",
+    "price": "\u20ba46,50",
+    "amount": "45 g"
+},{
+    "name": "Z\u00fcber Kakaolu Hi-Protein Bar",
+    "img": "https://market-product-images-cdn.getirapi.com/product/ad40dd3b-71a3-4f85-986c-b745a37fc2f2.jpg",
+    "price": "\u20ba46,50",
+    "amount": "45 g"
+},{
+    "name": "Z\u00fcber F\u0131st\u0131kl\u0131 Meyve Bar",
+    "img": "https://market-product-images-cdn.getirapi.com/product/0055f432-0194-47af-a2c6-d45903c8ea21.jpg",
+    "price": "\u20ba37,70",
+    "amount": "40 g"
+},{
+    "name": "Z\u00fcber Kakao ve Portakal Bar",
+    "img": "https://market-product-images-cdn.getirapi.com/product/e18be66c-77b5-4840-bf84-cc0aad988402.jpg",
+    "price": "\u20ba31,50",
+    "amount": "40 g"
+},{
+    "name": "Z\u00fcber Orman Meyveli",
+    "img": "https://cdn.getir.com/product/5e9da79035186ecbba0f9726_tr_1587401035962.jpeg",
+    "price": "\u20ba27,70",
+    "amount": "35 g"
+},{
+    "name": "Z\u00fcber Lokma Hindistan Cevizi",
+    "img": "https://market-product-images-cdn.getirapi.com/product/7832bdad-1abc-4bbf-ac04-b6af63e8ea6f.jpg",
+    "price": "\u20ba56,70",
+    "amount": "96 g"
+},{
+    "name": "Z\u00fcber Lokma F\u0131nd\u0131k",
+    "img": "https://market-product-images-cdn.getirapi.com/product/855e01f4-6da2-4ae0-a02f-74a93efa287f.jpg",
+    "price": "\u20ba56,70",
+    "amount": "96 g"
+},{
+    "name": "Z\u00fcber Lokma Antep F\u0131st\u0131\u011f\u0131",
+    "img": "https://market-product-images-cdn.getirapi.com/product/a3a24487-5596-46fa-87cf-fe0b5c5e580f.jpg",
+    "price": "\u20ba62,99",
+    "amount": "96 g"
+},{
+    "name": "Z\u00fcber Lokma Badem Ezmeli",
+    "img": "https://market-product-images-cdn.getirapi.com/product/270852c7-dcfc-4671-a19c-ade7ae26d04b.jpg",
+    "price": "\u20ba39,80",
+    "amount": "96 g"
+},{
+    "name": "Z\u00fcber Lokma F\u0131nd\u0131k Ezmeli",
+    "img": "https://market-product-images-cdn.getirapi.com/product/eb986ea9-2a94-46ac-a24c-987caaea6b31.jpg",
+    "price": "\u20ba56,70",
+    "amount": "96 g"
+},{
+    "name": "Z\u00fcber Lokma F\u0131st\u0131k Ezmeli",
+    "img": "https://market-product-images-cdn.getirapi.com/product/f7380b32-352f-4067-8c34-cd57e5c66cc6.jpg",
+    "price": "\u20ba56,70",
+    "amount": "96 g"
+},{
+    "name": "Fropie Badem & Kakao",
+    "img": "https://market-product-images-cdn.getirapi.com/product/2ff50440-313a-4ebc-be7f-9d3eebde5bb4.jpg",
+    "price": "\u20ba17,50",
+    "amount": "35 g"
+},{
+    "name": "Fropie Brezilya Cevizi & Chia",
+    "img": "https://market-product-images-cdn.getirapi.com/product/db6e5cd4-4b25-448f-a3ec-5e16050e3975.jpg",
+    "price": "\u20ba17,50",
+    "amount": "35 g"
+},{
+    "name": "Fropie Hindistan Cevizi & Yerf\u0131st\u0131\u011f\u0131 Ezmesi & Hurma",
+    "img": "https://market-product-images-cdn.getirapi.com/product/98bae452-135a-4faf-ae28-7c68341e7611.jpg",
+    "price": "\u20ba43,20",
+    "amount": "80 g"
+},{
+    "name": "Fropie Antep F\u0131st\u0131\u011f\u0131 & F\u0131nd\u0131k & Hurma",
+    "img": "https://market-product-images-cdn.getirapi.com/product/a55813c1-710f-486b-9e76-6e77dec51128.jpg",
+    "price": "\u20ba47,99",
+    "amount": "80 g"
+},{
+    "name": "Fropie Hindistan Cevizi & Kaju & Hurma",
+    "img": "https://market-product-images-cdn.getirapi.com/product/6a231fd5-0ab8-49c4-990c-9ab9a270065b.jpg",
+    "price": "\u20ba43,20",
+    "amount": "80 g"
+},{
+    "name": "Lifalif Kuru Meyveli Yulaf",
+    "img": "https://cdn.getir.com/product/5f562b25718d8f62484969c6_tr_1655739252426.jpeg",
+    "price": "\u20ba10,50",
+    "amount": "35 g"
+},{
+    "name": "Lifalif Kuru Yemi\u015fli Yulaf",
+    "img": "https://cdn.getir.com/product/5f355b0d4491685ce0993fa7_tr_1655739275710.jpeg",
+    "price": "\u20ba14,10",
+    "amount": "35 g"
+},{
+    "name": "Lifalif Bitter Yulaf",
+    "img": "https://cdn.getir.com/product/5f354d8f0d08a040a0775e40_tr_1655739295047.jpeg",
+    "price": "\u20ba14,10",
+    "amount": "35 g"
+},{
+    "name": "Lifalif Ay \u00c7ekirdek & Domates",
+    "img": "https://cdn.getir.com/product/5f8d5d2a9cfa6acdba54296c_tr_1655738975624.jpeg",
+    "price": "\u20ba15,50",
+    "amount": "36 g"
+},{
+    "name": "Eti Lifalif Kuru Yemi\u015fli",
+    "img": "https://cdn.getir.com/product/5f8d559ab7c7b627d03188a9_tr_1603394816039.jpeg",
+    "price": "\u20ba33,30",
+    "amount": "3 x 35 g"
+},{
+    "name": "Uniq2go F\u0131nd\u0131kl\u0131",
+    "img": "https://cdn.getir.com/product/6005a64d05749280e79b8150_tr_1624859982636.jpeg",
+    "price": "\u20ba14,50",
+    "amount": "38 g"
+},{
+    "name": "Uniq2go Sweet & Sour Bar",
+    "img": "https://cdn.getir.com/product/6005a737d8363f0c349c81ea_tr_1624859932988.jpeg",
+    "price": "\u20ba24,70",
+    "amount": "38 g"
+},{
+    "name": "Uniq2go Muzlu Protein Bar",
+    "img": "https://market-product-images-cdn.getirapi.com/product/5885e1e2-0fc1-48ef-a1c0-2c67b601bf8c.jpg",
+    "price": "\u20ba29,10",
+    "amount": "38 gr"
+},{
+    "name": "Uniq2go Bademli Maxi Bar",
+    "img": "https://cdn.getir.com/product/627b6d62c2a5d123b3c1c222_tr_1652424667654.jpeg",
+    "price": "\u20ba46,60",
+    "amount": "65 gr"
+},{
+    "name": "Uniq2go F\u0131st\u0131k Ezmeli",
+    "img": "https://cdn.getir.com/product/604f1f6518b64774d57729f3_tr_1624860076503.jpeg",
+    "price": "\u20ba46,50",
+    "amount": "67 g"
+},{
+    "name": "Uniq2go Bademli",
+    "img": "https://cdn.getir.com/product/604f1c0b97e997fe6e872bf6_tr_1624860042086.jpeg",
+    "price": "\u20ba29,00",
+    "amount": "38 g"
+},{
+    "name": "Malty F\u0131nd\u0131k & Kakaolu",
+    "img": "https://market-product-images-cdn.getirapi.com/product/ccd74293-6948-41f1-ae0c-c1679cbf830a.jpg",
+    "price": "\u20ba46,50",
+    "amount": "80 g"
+},{
+    "name": "Kellogg's Beyaz \u00c7ikolata",
+    "img": "https://cdn.getir.com/product/61c56e97c9e60e203413cde5_tr_1640698321726.jpeg",
+    "price": "\u20ba96,99",
+    "amount": "300 g"
+},{
+    "name": "Eti Lifalif Granola F\u0131nd\u0131kl\u0131",
+    "img": "https://cdn.getir.com/product/61d5a6c91af6255bdeafafeb_tr_1641467647736.jpeg",
+    "price": "\u20ba50,99",
+    "amount": "200 g"
+},{
+    "name": "Mom's Kakao & F\u0131nd\u0131k",
+    "img": "https://market-product-images-cdn.getirapi.com/product/0081f6a5-ae99-47f6-90ce-0579fc9e6cf7.jpg",
+    "price": "\u20ba121,20",
+    "amount": "360 g"
+},{
+    "name": "Mom's Muz & Ceviz",
+    "img": "https://market-product-images-cdn.getirapi.com/product/84dfb7ea-dee7-4c67-8e34-899273f3edb4.jpg",
+    "price": "\u20ba121,20",
+    "amount": "360 g"
+},{
+    "name": "Mom's Yaban Mersinli",
+    "img": "https://market-product-images-cdn.getirapi.com/product/8f9f9fbf-5055-497e-b013-cd364982582e.jpg",
+    "price": "\u20ba121,20",
+    "amount": "360 g"
+},{
+    "name": "Mom's \u00c7ilek & Chia",
+    "img": "https://market-product-images-cdn.getirapi.com/product/806ad353-364a-4a6b-a96f-35b3dd332ea7.jpg",
+    "price": "\u20ba121,20",
+    "amount": "360 g"
+},{
+    "name": "Fellas F\u0131nd\u0131k & Kakao",
+    "img": "https://cdn.getir.com/product/613a110a2f511b108f2250f6_14b7ca88-2331-478d-a186-1318554036b2.jpeg",
+    "price": "\u20ba122,10",
+    "amount": "300 g"
+},{
+    "name": "Fellas Yaban Mersini & Kuruyemi\u015f",
+    "img": "https://cdn.getir.com/product/613a112744455027d39a98bc_a64ec923-ff0c-4813-be66-7c04a4678588.jpeg",
+    "price": "\u20ba122,10",
+    "amount": "300 g"
+},{
+    "name": "Kellogg's \u00c7ikolata F\u0131nd\u0131k",
+    "img": "https://cdn.getir.com/product/632dbc8fb9113b7953d2229e_tr_1664193689548.jpeg",
+    "price": "\u20ba15,50",
+    "amount": "60 g"
+},{
+    "name": "Kellogg's Granola Kar\u0131\u015f\u0131k Meyveli",
+    "img": "https://cdn.getir.com/product/632dbcb46daa1544c44588a1_tr_1664193806617.jpeg",
+    "price": "\u20ba19,40",
+    "amount": "60 g"
+},{
+    "name": "Kellogg's Granola Beyaz \u00c7ikolata",
+    "img": "https://cdn.getir.com/product/632dbc9eee42482479ba6b30_tr_1664193736821.jpeg",
+    "price": "\u20ba16,50",
+    "amount": "60 g"
+},{
+    "name": "Kellogg's Klasik",
+    "img": "https://cdn.getir.com/product/606f115dc9a10c0d963ccb2c_tr_1640894006136.jpeg",
+    "price": "\u20ba62,50",
+    "amount": "340 g"
+},{
+    "name": "Kellogg's \u00c7ikolata F\u0131nd\u0131k",
+    "img": "https://market-product-images-cdn.getirapi.com/product/90c526d1-f825-41fb-b201-8a9ba3bd3d5c.jpg",
+    "price": "\u20ba88,99",
+    "amount": "340 g"
+},{
+    "name": "Kellogg's Kar\u0131\u015f\u0131k Meyveli",
+    "img": "https://cdn.getir.com/product/606f114a2cfafb71507f7ec0_tr_1640893954350.jpeg",
+    "price": "\u20ba73,50",
+    "amount": "340 g"
+},{
+    "name": "Eti Form Bitter \u00c7ikolatal\u0131",
+    "img": "https://cdn.getir.com/product/5f8d8507c82fb7399732ba3d_tr_1661959441195.jpeg",
+    "price": "\u20ba13,60",
+    "amount": "50 g"
+},{
+    "name": "Eti Form Domates & Zeytin & Kekik",
+    "img": "https://cdn.getir.com/product/6225daf31379e6984c6f3f06_tr_1646823484958.jpeg",
+    "price": "\u20ba6,30",
+    "amount": "40 g"
+},{
+    "name": "Eti Form Kepekli Bisk\u00fcvi",
+    "img": "https://cdn.getir.com/product/55bc8e764dcda90c00e3a709_tr_1603379607580.jpeg",
+    "price": "\u20ba22,80",
+    "amount": "5 x 45 g"
+},{
+    "name": "Eti Form Limon Lifli Kepekli",
+    "img": "https://cdn.getir.com/product/5f3557e7ee4a8126f304d1b1_tr_1609404051841.jpeg",
+    "price": "\u20ba6,60",
+    "amount": "50 g"
+},{
+    "name": "Eti Form Tam \u00c7avdarl\u0131 Bisk\u00fcvi",
+    "img": "https://cdn.getir.com/product/5f8d636e9b8ac560c066f3c1_tr_1603396546550.jpeg",
+    "price": "\u20ba22,60",
+    "amount": "5 x 45 g"
+},{
+    "name": "Eti Form \u00c7ok Tah\u0131ll\u0131",
+    "img": "https://cdn.getir.com/product/5f355953250d5b81e421511d_tr_1609404043464.jpeg",
+    "price": "\u20ba8,70",
+    "amount": "41 g"
+},{
+    "name": "Eti Form K\u0131zarm\u0131\u015f Kepekli Ekmek",
+    "img": "https://cdn.getir.com/product/5f8d93d2dc9b426341e32198_tr_1603383855704.jpeg",
+    "price": "\u20ba24,30",
+    "amount": "138 g"
+},{
+    "name": "Wasa Krem Peynirli Sandvi\u00e7",
+    "img": "https://cdn.getir.com/product/5ca77d5dd1b0a8000103db80_tr_1591196891976.jpeg",
+    "price": "\u20ba21,70",
+    "amount": "30 g"
+},{
+    "name": "Wasa Sade Gevrek",
+    "img": "https://cdn.getir.com/product/5ca77cc2d1b0a8000103db2c_tr_1609395139676.jpeg",
+    "price": "\u20ba54,99",
+    "amount": "275 g"
+},{
+    "name": "Wasa Glutensiz Sade Gevrek",
+    "img": "https://cdn.getir.com/product/5cf272569463890001c3fd63_tr_1604387405497.jpeg",
+    "price": "\u20ba133,95",
+    "amount": "240 g"
+},{
+    "name": "Alt\u0131nba\u015fak Kepekli Grissini",
+    "img": "https://cdn.getir.com/product/59035d6b4ad6a10004d4a7fe_tr_1603571058616.jpeg",
+    "price": "\u20ba25,50",
+    "amount": "125 g"
+},{
+    "name": "Alt\u0131nba\u015fak Sade Grissini",
+    "img": "https://cdn.getir.com/product/5f9304b2b36716130038b41f_tr_1604420259100.jpeg",
+    "price": "\u20ba25,50",
+    "amount": "125 g"
+},{
+    "name": "Alt\u0131nba\u015fak Yulafl\u0131 Bisk\u00fcvi",
+    "img": "https://cdn.getir.com/product/590357fbed47f600049abbf5_tr_1609404068804.png",
+    "price": "\u20ba3,20",
+    "amount": "46 g"
+},{
+    "name": "Alt\u0131nba\u015fak Yulafl\u0131 Bisk\u00fcvi",
+    "img": "https://cdn.getir.com/product/5f955e5191c17a42a0ad243d_tr_1604427312926.jpeg",
+    "price": "\u20ba28,99",
+    "amount": "5 x 46 g"
+},{
+    "name": "Alt\u0131nba\u015fak Labne Sandvi\u00e7",
+    "img": "https://cdn.getir.com/product/61263e6299de30a6819119ed_tr_1630596312843.jpeg",
+    "price": "\u20ba10,70",
+    "amount": "55 g"
+},{
+    "name": "Alt\u0131nba\u015fak \u00c7\u00f6rekotlu Bisk\u00fcvi",
+    "img": "https://cdn.getir.com/product/5d3aad85588f2a00013c165e_tr_1599939540309.jpeg",
+    "price": "\u20ba6,60",
+    "amount": "40 g"
+},{
+    "name": "Alt\u0131nba\u015fak \u00c7\u00f6rekotlu Bisk\u00fcvi",
+    "img": "https://market-product-images-cdn.getirapi.com/product/80e9f292-73cc-4f17-807d-b31f252102fd.jpeg",
+    "price": "\u20ba29,70",
+    "amount": "5 x 40 g"
+},{
+    "name": "Wefood Tahinli Kraker",
+    "img": "https://market-product-images-cdn.getirapi.com/product/b4a25a7c-40c3-47a1-a1ce-3927cbedb8aa.jpg",
+    "price": "\u20ba39,60",
+    "amount": "40 g"
+},{
+    "name": "Wefood Fesle\u011fenli Kraker",
+    "img": "https://market-product-images-cdn.getirapi.com/product/9b7f9222-eda4-42dc-bfbc-0e862d630c82.jpg",
+    "price": "\u20ba39,60",
+    "amount": "40 g"
+},{
+    "name": "Uno Cookie Frambuaz & Elma",
+    "img": "https://cdn.getir.com/product/6202364aafb64f060130b79f_tr_1646026977141.jpeg",
+    "price": "\u20ba24,20",
+    "amount": "50 g"
+},{
+    "name": "Uno Cookie Kay\u0131s\u0131 & Hurma",
+    "img": "https://cdn.getir.com/product/6202334f4757913302e642a9_tr_1646026959683.jpeg",
+    "price": "\u20ba24,20",
+    "amount": "50 g"
+},{
+    "name": "Saf Pirin\u00e7 Patlakl\u0131",
+    "img": "https://cdn.getir.com/product/5dcc04f20c4924250db7dfc8_4b20407e-6bf0-4493-b3c9-e6db14553a6a.jpeg",
+    "price": "\u20ba64,40",
+    "amount": "40 g"
+},{
+    "name": "Saf Amarantl\u0131 \u00c7ikolata",
+    "img": "https://market-product-images-cdn.getirapi.com/product/aef17ec0-5b8a-4eb3-a023-7957d1512c95.jpg",
+    "price": "\u20ba109,50",
+    "amount": "2 x 40 g"
+},{
+    "name": "Rice Up 7 Tohumlu Pirin\u00e7 Patla\u011f\u0131",
+    "img": "https://market-product-images-cdn.getirapi.com/product/0b7007ee-6cbe-4474-b330-f13d8aadec51.jpg",
+    "price": "\u20ba31,50",
+    "amount": "120 g"
+},{
+    "name": "Rice Up Ay \u00c7ekirdekli Pirin\u00e7 Patla\u011f\u0131",
+    "img": "https://market-product-images-cdn.getirapi.com/product/a3aacb7b-9b2a-4181-a014-8fc08ac969e3.jpg",
+    "price": "\u20ba31,50",
+    "amount": "120 g"
+},{
+    "name": "Glutensiz Fabrika Karabu\u011fday Patla\u011f\u0131",
+    "img": "https://market-product-images-cdn.getirapi.com/product/f772758c-6693-4511-9246-8b8df63948cd.jpg",
+    "price": "\u20ba7,80",
+    "amount": "30 g"
+},{
+    "name": "Glutensiz Fabrika Sade Karabu\u011fday Patla\u011f\u0131",
+    "img": "https://market-product-images-cdn.getirapi.com/product/f1a116c6-acfa-4d67-98ba-fb9f44e68900.jpg",
+    "price": "\u20ba24,40",
+    "amount": "100 g"
+},{
+    "name": "Humm Peynirli Kinoal\u0131 Kraker",
+    "img": "https://cdn.getir.com/product/5fd1ca1858efdcb6aadbd9c4_tr_1621954182070.jpeg",
+    "price": "\u20ba45,70",
+    "amount": "60 g"
+},{
+    "name": "Humm Tahin & Pekmezli Kurabiye",
+    "img": "https://market-product-images-cdn.getirapi.com/product/7148d338-67c3-44cd-9a4c-a2347759383a.jpg",
+    "price": "\u20ba67,80",
+    "amount": "55 g"
+},{
+    "name": "Humm Kinoal\u0131 & Ball\u0131 Kurabiye",
+    "img": "https://cdn.getir.com/product/5932b56a2bc50d0004600feb_tr_1621954194902.jpeg",
+    "price": "\u20ba46,50",
+    "amount": "55 g"
+},{
+    "name": "Humm Zencefilli Kurabiye",
+    "img": "https://market-product-images-cdn.getirapi.com/product/1630ba7c-35a1-48b4-b479-1247c49baa90.jpg",
+    "price": "\u20ba67,80",
+    "amount": "55 g"
+},{
+    "name": "Humm F\u0131nd\u0131kl\u0131 Kurabiye",
+    "img": "https://market-product-images-cdn.getirapi.com/product/4ed8e6d1-2e89-427e-86a4-3b0a5727c832.jpg",
+    "price": "\u20ba67,80",
+    "amount": "55 g"
+},{
+    "name": "Special K Klasik",
+    "img": "https://market-product-images-cdn.getirapi.com/product/14cf8668-2198-4d7b-9732-ada7f85ccd16.jpg",
+    "price": "\u20ba55,30",
+    "amount": "420 g"
+},{
+    "name": "Special K Bitter \u00c7ikolatal\u0131",
+    "img": "https://market-product-images-cdn.getirapi.com/product/ff72222c-04d7-4ab2-8366-d454c6a7ff8b.jpg",
+    "price": "\u20ba60,50",
+    "amount": "400 g"
+},{
+    "name": "Kellogg's K\u0131rm\u0131z\u0131 Meyveli",
+    "img": "https://market-product-images-cdn.getirapi.com/product/d79fd637-d81f-4ec7-bbf7-ac4ef8ecaf03.jpg",
+    "price": "\u20ba77,60",
+    "amount": "400 g"
+},{
+    "name": "Kellogg's Special K Klasik",
+    "img": "https://market-product-images-cdn.getirapi.com/product/7820db4d-0b39-465c-a083-32821af7b16c.jpg",
+    "price": "\u20ba77,60",
+    "amount": "700 g"
+},{
+    "name": "Kellogg's Gurme",
+    "img": "https://cdn.getir.com/product/6221bf278151b218a02a29bc_tr_1646823587056.jpeg",
+    "price": "\u20ba77,60",
+    "amount": "300 g"
+},{
+    "name": "Nesfit K\u0131rm\u0131z\u0131 Meyveli",
+    "img": "https://market-product-images-cdn.getirapi.com/product/2a0dc779-d46a-42a0-a2c9-b1c125c776ce.jpg",
+    "price": "\u20ba79,80",
+    "amount": "400 g"
+},{
+    "name": "Kellogg's Yulaf Ezmesi",
+    "img": "https://market-product-images-cdn.getirapi.com/product/db105b3b-f52a-48c7-b869-38db3d27cb90.jpg",
+    "price": "\u20ba33,99",
+    "amount": "400 g"
+},{
+    "name": "Eti Lifalif Kakaolu",
+    "img": "https://market-product-images-cdn.getirapi.com/product/5665ac3e-41e0-488f-b4e8-8e78895b38db.jpg",
+    "price": "\u20ba41,50",
+    "amount": "250 g"
+},{
+    "name": "Lifalif Yulaf Ezmesi",
+    "img": "https://cdn.getir.com/product/5f56272a51393933bf8902ac_tr_1602831654296.jpeg",
+    "price": "\u20ba36,40",
+    "amount": "350 g"
+},{
+    "name": "Lifalif Yulaf Ezmesi",
+    "img": "https://cdn.getir.com/product/5f355317ec0c650fa39ce9f4_tr_1648625444869.jpeg",
+    "price": "\u20ba30,50",
+    "amount": "500 g"
+},{
+    "name": "Lifalif Meyveli F\u0131nd\u0131kl\u0131",
+    "img": "https://cdn.getir.com/product/5f56383b3438bee6b71a54a1_tr_1599809512359.jpeg",
+    "price": "\u20ba34,99",
+    "amount": "350 g"
+},{
+    "name": "Nesfit Kar\u0131\u015f\u0131k Meyveli",
+    "img": "https://market-product-images-cdn.getirapi.com/product/32d6bce3-e93b-40c9-a1db-fe3e04d7c85d.jpg",
+    "price": "\u20ba63,99",
+    "amount": "400 g"
+},{
+    "name": "Nesfit \u00c7ikolatal\u0131",
+    "img": "https://market-product-images-cdn.getirapi.com/product/f3388d13-ca65-4cc1-a196-1bb3683f0f82.jpg",
+    "price": "\u20ba63,99",
+    "amount": "400 g"
+},{
+    "name": "Eti Pronot Glutensiz Kakaolu",
+    "img": "https://cdn.getir.com/product/5f35387371e8332618263a50_tr_1603570335749.jpeg",
+    "price": "\u20ba26,99",
+    "amount": "144 g"
+},{
+    "name": "Z\u00fcber Orman Meyveli",
+    "img": "https://cdn.getir.com/product/5e9da79035186ecbba0f9726_tr_1587401035962.jpeg",
+    "price": "\u20ba27,70",
+    "amount": "35 g"
+},{
+    "name": "Z\u00fcber Kakaolu Hindistan Cevizi",
+    "img": "https://market-product-images-cdn.getirapi.com/product/8399df34-2838-4fb3-abbb-15a69d232947.jpg",
+    "price": "\u20ba20,50",
+    "amount": "40 g"
+},{
+    "name": "Z\u00fcber Lokma F\u0131nd\u0131k",
+    "img": "https://market-product-images-cdn.getirapi.com/product/855e01f4-6da2-4ae0-a02f-74a93efa287f.jpg",
+    "price": "\u20ba56,70",
+    "amount": "96 g"
+},{
+    "name": "Z\u00fcber Lokma Hindistan Cevizi",
+    "img": "https://market-product-images-cdn.getirapi.com/product/7832bdad-1abc-4bbf-ac04-b6af63e8ea6f.jpg",
+    "price": "\u20ba56,70",
+    "amount": "96 g"
+},{
+    "name": "Z\u00fcber Lokma Badem Ezmeli",
+    "img": "https://market-product-images-cdn.getirapi.com/product/270852c7-dcfc-4671-a19c-ade7ae26d04b.jpg",
+    "price": "\u20ba39,80",
+    "amount": "96 g"
+},{
+    "name": "Z\u00fcber Lokma F\u0131nd\u0131k Ezmeli",
+    "img": "https://market-product-images-cdn.getirapi.com/product/eb986ea9-2a94-46ac-a24c-987caaea6b31.jpg",
+    "price": "\u20ba56,70",
+    "amount": "96 g"
+},{
+    "name": "Z\u00fcber Lokma F\u0131st\u0131k Ezmeli",
+    "img": "https://market-product-images-cdn.getirapi.com/product/f7380b32-352f-4067-8c34-cd57e5c66cc6.jpg",
+    "price": "\u20ba56,70",
+    "amount": "96 g"
+},{
+    "name": "Saf Pirin\u00e7 Patlakl\u0131",
+    "img": "https://cdn.getir.com/product/5dcc04f20c4924250db7dfc8_4b20407e-6bf0-4493-b3c9-e6db14553a6a.jpeg",
+    "price": "\u20ba64,40",
+    "amount": "40 g"
+},{
+    "name": "Saf Amarantl\u0131 \u00c7ikolata",
+    "img": "https://market-product-images-cdn.getirapi.com/product/aef17ec0-5b8a-4eb3-a023-7957d1512c95.jpg",
+    "price": "\u20ba109,50",
+    "amount": "2 x 40 g"
+},{
+    "name": "Peyman Ortaya Kar\u0131\u015f\u0131k Gurme",
+    "img": "https://cdn.getir.com/product/5f85a70263bd934998cbfd3b_tr_1605130154234.jpeg",
+    "price": "\u20ba56,80",
+    "amount": "155 g"
+},{
+    "name": "Peyman Bah\u00e7eden Kuru \u00dcz\u00fcm",
+    "img": "https://cdn.getir.com/product/55984461b1dc700c006a72cb_tr_1609121612417.jpeg",
+    "price": "\u20ba39,99",
+    "amount": "200 g"
+},{
+    "name": "Peyman \u00c7i\u011f Kar\u0131\u015f\u0131k Kuruyemi\u015f",
+    "img": "https://cdn.getir.com/product/5c334afa47658a00017fca29_tr_1609396011953.jpeg",
+    "price": "\u20ba54,90",
+    "amount": "165 g"
+},{
+    "name": "Arbella Glutensiz Burgu",
+    "img": "https://cdn.getir.com/product/6290884b7b156e1640f26af9_tr_1653657384804.jpeg",
+    "price": "\u20ba43,60",
+    "amount": "400 g"
+},{
+    "name": "Wasa Glutensiz Sade Gevrek",
+    "img": "https://cdn.getir.com/product/5cf272569463890001c3fd63_tr_1604387405497.jpeg",
+    "price": "\u20ba133,95",
+    "amount": "240 g"
+},{
+    "name": "Sinangil Glutensiz Un",
+    "img": "https://market-product-images-cdn.getirapi.com/product/34ec9928-31b6-4a76-a83d-19e20c0d54c5.jpg",
+    "price": "\u20ba40,99",
+    "amount": "500 g"
+},{
+    "name": "Wefood Badem Unu",
+    "img": "https://market-product-images-cdn.getirapi.com/product/821e1daa-df32-488a-b863-a6299b3f9843.jpg",
+    "price": "\u20ba259,95",
+    "amount": "250 g"
+},{
+    "name": "Alpro Badem \u0130\u00e7ece\u011fi",
+    "img": "https://market-product-images-cdn.getirapi.com/product/b6fa9525-6232-47ae-91fb-0c1a54530a8b.jpg",
+    "price": "\u20ba94,99",
+    "amount": "1 L"
+},{
+    "name": "Alpro Badem \u0130\u00e7ece\u011fi",
+    "img": "https://market-product-images-cdn.getirapi.com/product/ccd46e42-96bc-446c-beb6-6f250eaf4a95.jpg",
+    "price": "\u20ba29,99",
+    "amount": "250 ml"
+},{
+    "name": "Alpro Badem \u0130\u00e7ece\u011fi \u015eekersiz",
+    "img": "https://market-product-images-cdn.getirapi.com/product/947e384e-e6c6-4a11-8aba-ae8b2160089b.jpg",
+    "price": "\u20ba89,99",
+    "amount": "1 L"
+},{
+    "name": "Nilky Badem S\u00fct\u00fc",
+    "img": "https://market-product-images-cdn.getirapi.com/product/a3707516-b786-4271-9998-a4b50a07bc89.jpg",
+    "price": "\u20ba72,70",
+    "amount": "1 L"
+},{
+    "name": "Nilky Badem S\u00fct\u00fc",
+    "img": "https://market-product-images-cdn.getirapi.com/product/4e1596be-6b36-443d-9bba-170ee23a7c9e.jpg",
+    "price": "\u20ba39,80",
+    "amount": "500 ml"
+},{
+    "name": "Nilky \u015eekersiz Badem S\u00fct\u00fc",
+    "img": "https://market-product-images-cdn.getirapi.com/product/48f41098-ffe9-4350-a247-70c567272b7d.jpg",
+    "price": "\u20ba54,99",
+    "amount": "1 L"
+},{
+    "name": "VeganMilk Badem S\u00fct\u00fc",
+    "img": "https://market-product-images-cdn.getirapi.com/product/18b98609-ab5a-402b-997e-2c9a073d9b37.jpg",
+    "price": "\u20ba92,20",
+    "amount": "700 ml"
+},{
+    "name": "Alpro Hindistan Cevizi & Badem",
+    "img": "https://market-product-images-cdn.getirapi.com/product/f7171e5c-b9b5-40f1-80cc-9a1ad4c1334e.jpg",
+    "price": "\u20ba89,99",
+    "amount": "1 L"
+},{
+    "name": "Alpro Hindistan Cevizi \u015eekersiz",
+    "img": "https://market-product-images-cdn.getirapi.com/product/85ee9e9f-7adf-48c0-a26e-02e4db0bc8b5.jpg",
+    "price": "\u20ba89,99",
+    "amount": "1 L"
+},{
+    "name": "Nilky Hindistan Cevizi",
+    "img": "https://market-product-images-cdn.getirapi.com/product/cf8d008d-8f90-48be-9221-f87395aaa7eb.jpg",
+    "price": "\u20ba72,70",
+    "amount": "1 L"
+},{
+    "name": "Nilky Yulaf S\u00fct\u00fc",
+    "img": "https://market-product-images-cdn.getirapi.com/product/4f3e59d8-e593-4089-a7f3-9908be7c3340.jpg",
+    "price": "\u20ba72,70",
+    "amount": "1 L"
+},{
+    "name": "Vegan Milk F\u0131nd\u0131k S\u00fct\u00fc",
+    "img": "https://market-product-images-cdn.getirapi.com/product/e4ae4193-55de-43d1-a626-941db7ca43c4.jpg",
+    "price": "\u20ba92,20",
+    "amount": "700 ml"
+},{
+    "name": "Alpro Hindistan Cevizi",
+    "img": "https://market-product-images-cdn.getirapi.com/product/c467066a-9a27-4171-a0d1-64c055218d90.jpg",
+    "price": "\u20ba89,99",
+    "amount": "1 L"
+},{
+    "name": "VeganMilk Hindistan Ceviz S\u00fct\u00fc",
+    "img": "https://market-product-images-cdn.getirapi.com/product/c4728ee2-cf62-40f9-aba2-d3cc6c6b3ffd.jpg",
+    "price": "\u20ba92,20",
+    "amount": "700 ml"
+},{
+    "name": "Alpro Yulaf \u0130\u00e7ece\u011fi",
+    "img": "https://market-product-images-cdn.getirapi.com/product/9ab55240-a9f7-4ab8-93df-da6a9ca02064.jpg",
+    "price": "\u20ba99,99",
+    "amount": "1 L"
+},{
+    "name": "Alpro Soya \u0130\u00e7ece\u011fi",
+    "img": "https://market-product-images-cdn.getirapi.com/product/b23f7d0b-9f78-405f-8d8b-f8fe24026ff4.jpg",
+    "price": "\u20ba116,40",
+    "amount": "1 L"
+},{
+    "name": "Nilky F\u0131nd\u0131k S\u00fct\u00fc",
+    "img": "https://market-product-images-cdn.getirapi.com/product/1fd14378-0eeb-4c13-a66d-40b9b7798173.jpg",
+    "price": "\u20ba56,99",
+    "amount": "1 L"
+},{
+    "name": "Nilky \u00c7ikolatal\u0131 F\u0131nd\u0131k",
+    "img": "https://market-product-images-cdn.getirapi.com/product/a56779cf-96cf-4f4a-99e5-79379df5a33f.jpg",
+    "price": "\u20ba17,80",
+    "amount": "180 ml"
+},{
+    "name": "Veggy Tofu",
+    "img": "https://market-product-images-cdn.getirapi.com/product/402dd1f1-92fb-4dd8-bb80-73891a12b4ea.jpg",
+    "price": "\u20ba116,95",
+    "amount": "300 g"
+},{
+    "name": "Veggy Vegan K\u00f6fte",
+    "img": "https://market-product-images-cdn.getirapi.com/product/3543bc97-9aeb-427a-be8b-82c9270398bf.jpg",
+    "price": "\u20ba135,70",
+    "amount": "300 g"
+},{
+    "name": "Veggy Bezelye Proteini",
+    "img": "https://market-product-images-cdn.getirapi.com/product/df926260-53c0-4f31-a6d3-e01def2793e0.jpg",
+    "price": "\u20ba116,30",
+    "amount": "200 g"
+},{
+    "name": "Veggy T\u00fcts\u00fc Aromal\u0131 Tofu",
+    "img": "https://market-product-images-cdn.getirapi.com/product/112f5fb3-6a4f-4d6d-8623-27a64663c48c.jpg",
+    "price": "\u20ba145,40",
+    "amount": "300 g"
+},{
+    "name": "Veggy Bitki Bazl\u0131 Sotelik",
+    "img": "https://market-product-images-cdn.getirapi.com/product/1f996c01-4d6b-4674-a9eb-2f15f7c63ac0.jpg",
+    "price": "\u20ba87,20",
+    "amount": "150 g"
+} ]
