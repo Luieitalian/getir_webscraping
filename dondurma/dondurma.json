@@ -1,0 +1,896 @@
+[{
+    "name": "Nogger Paketi",
+    "img": "https://cdn.getir.com/product/62e251a9316441a5a5928aff_tr_1659692215906.jpeg",
+    "price": "\u20ba79,20",
+    "amount": "3'l\u00fc"
+},{
+    "name": "Algida Milka Stick",
+    "img": "https://market-product-images-cdn.getirapi.com/product/a8241f78-8c48-44f2-af47-145ad5840a69.jpg",
+    "price": "\u20ba19,80",
+    "amount": "82 ml"
+},{
+    "name": "Algida Viennetta Stick",
+    "img": "https://market-product-images-cdn.getirapi.com/product/3bb4167f-807c-41cd-a036-f7712b5c1e8d.jpg",
+    "price": "\u20ba14,80",
+    "amount": "90 ml"
+},{
+    "name": "Magnum Euphoria & Chill Paketi",
+    "img": "https://market-product-images-cdn.getirapi.com/product/934f0f4c-b597-43f6-af20-dda4c4362054.jpg",
+    "price": "\u20ba138,50",
+    "amount": "4 \u00dcr\u00fcn"
+},{
+    "name": "Magnum Double Chill",
+    "img": "https://market-product-images-cdn.getirapi.com/product/15c809b8-dfa2-44dc-8eb5-689daa12e568.jpg",
+    "price": "\u20ba39,60",
+    "amount": "85 ml"
+},{
+    "name": "Magnum Double Euphoria",
+    "img": "https://market-product-images-cdn.getirapi.com/product/a6570000-d8c4-45a8-ba8b-c5cddc36f8e5.jpg",
+    "price": "\u20ba39,60",
+    "amount": "85 ml"
+},{
+    "name": "Magnum Double Starchaser",
+    "img": "https://market-product-images-cdn.getirapi.com/product/9baed0bb-71cd-44cc-975d-8173b681d5b9.jpg",
+    "price": "\u20ba24,50",
+    "amount": "85 ml"
+},{
+    "name": "Magnum Double Sunlover",
+    "img": "https://market-product-images-cdn.getirapi.com/product/022b09f2-73c9-44ac-b6fe-1660f8502417.jpg",
+    "price": "\u20ba24,50",
+    "amount": "85 ml"
+},{
+    "name": "Magnum Classic",
+    "img": "https://market-product-images-cdn.getirapi.com/product/001df700-649a-47fc-8952-5e5eaac64676.jpg",
+    "price": "\u20ba39,60",
+    "amount": "100 ml"
+},{
+    "name": "Magnum Badem",
+    "img": "https://market-product-images-cdn.getirapi.com/product/c33b09e2-aa4f-462a-9f2c-03f044c96321.jpg",
+    "price": "\u20ba39,60",
+    "amount": "100 ml"
+},{
+    "name": "Magnum Cookie",
+    "img": "https://market-product-images-cdn.getirapi.com/product/f6199266-6504-4c5e-9d77-2bfeea73e266.jpg",
+    "price": "\u20ba39,60",
+    "amount": "95 ml"
+},{
+    "name": "Magnum Beyaz",
+    "img": "https://market-product-images-cdn.getirapi.com/product/335966ca-4364-4994-98be-ff29a7781582.jpg",
+    "price": "\u20ba39,60",
+    "amount": "100 ml"
+},{
+    "name": "Magnum D\u00fcet K\u0131rm\u0131z\u0131 Meyveler",
+    "img": "https://cdn.getir.com/product/61e8237ddaafed5cc5f4c9f8_tr_1643885762259.jpeg",
+    "price": "\u20ba24,50",
+    "amount": "90 ml"
+},{
+    "name": "Magnum Caramel Gold",
+    "img": "https://cdn.getir.com/product/5ff4159ba629cae1b10c7838_tr_1618324021174.jpeg",
+    "price": "\u20ba24,80",
+    "amount": "90 ml"
+},{
+    "name": "Magnum Double \u00c7ikolata",
+    "img": "https://market-product-images-cdn.getirapi.com/product/e830a4b4-89f8-4b01-b712-8a0971650233.jpg",
+    "price": "\u20ba39,60",
+    "amount": "95 ml"
+},{
+    "name": "Magnum Double Karadut",
+    "img": "https://market-product-images-cdn.getirapi.com/product/41277982-b5de-4b80-88f6-b85503a21136.jpg",
+    "price": "\u20ba39,60",
+    "amount": "95 ml"
+},{
+    "name": "Snickers \u00c7ubuk Dondurma",
+    "img": "https://cdn.getir.com/product/6045e5aa247536690035d115_tr_1615200549529.jpeg",
+    "price": "\u20ba49,50",
+    "amount": "91 ml"
+},{
+    "name": "Golf Bravo Crazy Fruity",
+    "img": "https://market-product-images-cdn.getirapi.com/product/68a7502e-f24d-49af-a991-800c90a6c503.jpg",
+    "price": "\u20ba39,60",
+    "amount": "90 ml"
+},{
+    "name": "Golf Bravo Crazy Nutty",
+    "img": "https://cdn.getir.com/product/60e45108541322b9959b9ee3_tr_1625731794906.jpeg",
+    "price": "\u20ba39,60",
+    "amount": "90 ml"
+},{
+    "name": "Golf Bravo Badem",
+    "img": "https://cdn.getir.com/product/602f5949e5f1431ceec72478_tr_1613724920140.jpeg",
+    "price": "\u20ba39,60",
+    "amount": "100 ml"
+},{
+    "name": "Golf Bravo Karamel Dore",
+    "img": "https://cdn.getir.com/product/5ef30873525a130753a2f2b2_tr_1604782171652.jpeg",
+    "price": "\u20ba39,60",
+    "amount": "100 ml"
+},{
+    "name": "Golf Bravo Beyaz \u00c7ikolata",
+    "img": "https://cdn.getir.com/product/602f592ddc0d6d5e2e1cdf4f_tr_1613724579315.jpeg",
+    "price": "\u20ba39,60",
+    "amount": "100 ml"
+},{
+    "name": "Golf Bravo Brownie",
+    "img": "https://cdn.getir.com/product/5f631e20d4b31d8369bade94_tr_1605186801735.png",
+    "price": "\u20ba24,80",
+    "amount": "90 ml"
+},{
+    "name": "Golf Bravo Red Velvet",
+    "img": "https://cdn.getir.com/product/5ef303e1757d7c7bf20ee826_tr_1604781703255.jpeg",
+    "price": "\u20ba24,50",
+    "amount": "100 ml"
+},{
+    "name": "Golf Bravo Karadut",
+    "img": "https://cdn.getir.com/product/615ee2304565acec180de197_tr_1633933985739.jpeg",
+    "price": "\u20ba39,60",
+    "amount": "100 ml"
+},{
+    "name": "Pernigotti F\u0131st\u0131k",
+    "img": "https://cdn.getir.com/product/5f58d1282d8a135626e4cc77_tr_1626417577902.jpeg",
+    "price": "\u20ba24,50",
+    "amount": "100 ml"
+},{
+    "name": "Pernigotti S\u00fctl\u00fc \u00c7ikolata",
+    "img": "https://cdn.getir.com/product/5f58d31f2d8a130961e4ccc7_tr_1626417550753.jpeg",
+    "price": "\u20ba24,50",
+    "amount": "100 ml"
+},{
+    "name": "Algida Frigola Toblerone",
+    "img": "https://market-product-images-cdn.getirapi.com/product/3cd50174-dbe2-48ca-a5e3-e3335acd7e36.jpg",
+    "price": "\u20ba19,60",
+    "amount": "90 ml"
+},{
+    "name": "Algida Classics Kakao",
+    "img": "https://market-product-images-cdn.getirapi.com/product/f21c2d6a-4472-4dc8-8131-bfb2bab07fb8.jpg",
+    "price": "\u20ba14,80",
+    "amount": "65 ml"
+},{
+    "name": "Algida Classics Vanilya",
+    "img": "https://market-product-images-cdn.getirapi.com/product/27aa62e9-e0fe-4ca3-ac22-69e0a316f9b6.jpg",
+    "price": "\u20ba14,80",
+    "amount": "65 ml"
+},{
+    "name": "Algida Classics Paketi",
+    "img": "https://market-product-images-cdn.getirapi.com/product/886ea28b-dedf-463e-98d2-37986293c78a.jpg",
+    "price": "\u20ba51,99",
+    "amount": "4 \u00dcr\u00fcn"
+},{
+    "name": "Algida Frigola F\u0131nd\u0131k \u00c7ikolata",
+    "img": "https://market-product-images-cdn.getirapi.com/product/fb3161b3-ae8f-46f4-9cba-222c1b192066.jpg",
+    "price": "\u20ba17,30",
+    "amount": "60 ml"
+},{
+    "name": "Algida M\u00f6\u00f6 Shake",
+    "img": "https://market-product-images-cdn.getirapi.com/product/166272e4-474c-40cf-becc-5132d3a76894.jpg",
+    "price": "\u20ba11,80",
+    "amount": "60 ml"
+},{
+    "name": "Algida Twister Cool",
+    "img": "https://market-product-images-cdn.getirapi.com/product/849fba02-d985-4d2e-8045-69ab8c23ec40.jpg",
+    "price": "\u20ba9,90",
+    "amount": "65 ml"
+},{
+    "name": "Algida Twister Cool",
+    "img": "https://market-product-images-cdn.getirapi.com/product/c7f8123f-fdbb-4a3f-ad74-40d948e61729.jpg",
+    "price": "\u20ba29,40",
+    "amount": "3 x 65 ml"
+},{
+    "name": "Algida Frootie Quark'l\u0131",
+    "img": "https://market-product-images-cdn.getirapi.com/product/1776c20b-c55d-48d7-b4ac-10cbd9a23fe3.jpg",
+    "price": "\u20ba14,80",
+    "amount": "60 ml"
+},{
+    "name": "Golf Roko Dark",
+    "img": "https://market-product-images-cdn.getirapi.com/product/ca159e3a-810c-4712-951a-208a9ccc025f.jpg",
+    "price": "\u20ba19,80",
+    "amount": "65 ml"
+},{
+    "name": "Golf Roko",
+    "img": "https://cdn.getir.com/product/5ef3121b525a13eb5aa2f468_tr_1592994088130.jpeg",
+    "price": "\u20ba19,80",
+    "amount": "65 ml"
+},{
+    "name": "Golf Roko Beyaz",
+    "img": "https://cdn.getir.com/product/5ef3131afa96e68192552825_tr_1592994130842.jpeg",
+    "price": "\u20ba19,80",
+    "amount": "65 ml"
+},{
+    "name": "Golf Mara\u015f\u0131m Sade",
+    "img": "https://cdn.getir.com/product/62824588ae83a4603e7e9baf_tr_1652865726444.jpeg",
+    "price": "\u20ba17,40",
+    "amount": "60 ml"
+},{
+    "name": "Danino Ice \u00c7ilekli Dondurma",
+    "img": "https://cdn.getir.com/product/5f75c40e9e33d9ad9f895762_tr_1601558052182.jpeg",
+    "price": "\u20ba4,80",
+    "amount": "47 ml"
+},{
+    "name": "Danone Kids Kar Tanesi",
+    "img": "https://cdn.getir.com/product/5f75c69a3c957aa799469de6_tr_1601558020368.jpeg",
+    "price": "\u20ba5,70",
+    "amount": "75 ml"
+},{
+    "name": "Do Sandvi\u00e7 Dondurma",
+    "img": "https://market-product-images-cdn.getirapi.com/product/db81101e-c308-4926-979d-0c85223958ab.jpg",
+    "price": "\u20ba69,30",
+    "amount": "130 g"
+},{
+    "name": "Algida Nogger Sandwich",
+    "img": "https://market-product-images-cdn.getirapi.com/product/752292e3-a85b-4357-9777-b87f57fd402f.jpg",
+    "price": "\u20ba29,70",
+    "amount": "145 ml"
+},{
+    "name": "Algida Frigola Bar",
+    "img": "https://market-product-images-cdn.getirapi.com/product/b716e64f-988a-48ee-8cbf-0015fbb30ef1.jpg",
+    "price": "\u20ba22,30",
+    "amount": "60 ml"
+},{
+    "name": "Algida Frigola Bar",
+    "img": "https://market-product-images-cdn.getirapi.com/product/519a7c89-9e5b-463a-9931-93052040e466.jpg",
+    "price": "\u20ba59,40",
+    "amount": "3 x 60 ml"
+},{
+    "name": "Algida Winner Bar",
+    "img": "https://market-product-images-cdn.getirapi.com/product/aae6bd04-5a56-4c53-8a9e-3b897faefc0b.jpg",
+    "price": "\u20ba17,70",
+    "amount": "60 ml"
+},{
+    "name": "Algida Oreo Bar",
+    "img": "https://market-product-images-cdn.getirapi.com/product/8bd0347a-0e11-4bcf-9696-ab4ada366a08.jpg",
+    "price": "\u20ba24,80",
+    "amount": "72 ml"
+},{
+    "name": "Bounty Dondurma",
+    "img": "https://cdn.getir.com/product/5ef32fa89d6e3454681cc4eb_tr_1654691888810.jpeg",
+    "price": "\u20ba39,60",
+    "amount": "50 ml"
+},{
+    "name": "Snickers White",
+    "img": "https://cdn.getir.com/product/60a7c2d96341891f9555cf4c_tr_1654691804388.jpeg",
+    "price": "\u20ba39,60",
+    "amount": "45 ml"
+},{
+    "name": "Snickers Dondurma",
+    "img": "https://cdn.getir.com/product/5ef32dc727eb237f0886d971_tr_1654691766224.jpeg",
+    "price": "\u20ba39,60",
+    "amount": "53 ml"
+},{
+    "name": "Twix Dondurma",
+    "img": "https://cdn.getir.com/product/5ef330a13e683e6035540fef_tr_1654691843813.jpeg",
+    "price": "\u20ba39,60",
+    "amount": "50 ml"
+},{
+    "name": "Mars Dondurma",
+    "img": "https://cdn.getir.com/product/5ef33283981fe811f8544a3c_tr_1654691709964.jpeg",
+    "price": "\u20ba39,60",
+    "amount": "51 ml"
+},{
+    "name": "Golf Mara\u015f\u0131m Sandwich",
+    "img": "https://cdn.getir.com/product/5ef30b8a0b42fb64315f2f56_tr_1619507985229.jpeg",
+    "price": "\u20ba32,20",
+    "amount": "120 ml"
+},{
+    "name": "Pernigotti Hindistan Cevizli",
+    "img": "https://cdn.getir.com/product/5f5871f527265b73a687609d_tr_1626417267841.jpeg",
+    "price": "\u20ba9,80",
+    "amount": "40 ml"
+},{
+    "name": "Pernigotti Bal Badem",
+    "img": "https://cdn.getir.com/product/60d1fd801ea9ff66703aab95_tr_1656426219893.jpeg",
+    "price": "\u20ba9,80",
+    "amount": "40 ml"
+},{
+    "name": "Pernigotti Karamelli",
+    "img": "https://cdn.getir.com/product/5f58765385c3285c6547b294_tr_1646143592352.jpeg",
+    "price": "\u20ba9,80",
+    "amount": "40 ml"
+},{
+    "name": "Pernigotti \u00c7ilekli Dondurma",
+    "img": "https://cdn.getir.com/product/610421b2ebd10c7e3a4ea7fd_tr_1646026739092.jpeg",
+    "price": "\u20ba9,80",
+    "amount": "40 ml"
+},{
+    "name": "Eti Alaska Frigo Yer F\u0131st\u0131kl\u0131",
+    "img": "https://market-product-images-cdn.getirapi.com/product/9459668a-4d91-4f42-b238-8e2a1b8d7eb7.jpg",
+    "price": "\u20ba29,20",
+    "amount": "47 g"
+},{
+    "name": "Eti Alaska Frigo Karamelli",
+    "img": "https://market-product-images-cdn.getirapi.com/product/e7bf7bfe-9c7c-40b7-bb14-810421f1c7ca.jpg",
+    "price": "\u20ba24,80",
+    "amount": "47 g"
+},{
+    "name": "Eti Alaska Frigo Mozaik",
+    "img": "https://market-product-images-cdn.getirapi.com/product/61986216-9f9b-4571-853b-efe9a59fd28d.jpg",
+    "price": "\u20ba24,80",
+    "amount": "50 g"
+},{
+    "name": "Eti Alaska Frigo S\u00fctl\u00fc",
+    "img": "https://market-product-images-cdn.getirapi.com/product/76867350-1eab-42c5-926b-6d085ce1b634.jpg",
+    "price": "\u20ba24,80",
+    "amount": "60 g"
+},{
+    "name": "Eti Alaska Frigo Bitter",
+    "img": "https://market-product-images-cdn.getirapi.com/product/34f9b24b-ef21-42d1-b377-d9437f0ffc49.jpg",
+    "price": "\u20ba24,80",
+    "amount": "60 g"
+},{
+    "name": "Clasigo Tuzlu Karamel",
+    "img": "https://cdn.getir.com/product/60bf83c734cba825e1fd8ae1_tr_1660635878101.jpeg",
+    "price": "\u20ba9,80",
+    "amount": "55 g"
+},{
+    "name": "Clasigo S\u00fctl\u00fc \u00c7ikolata Kapl\u0131 Bar",
+    "img": "https://cdn.getir.com/product/61b7517d76bc62fcfc712883_tr_1639491228348.jpeg",
+    "price": "\u20ba14,70",
+    "amount": "55 g"
+},{
+    "name": "Clasigo Bitter \u00c7ikolata Kapl\u0131 Bar",
+    "img": "https://cdn.getir.com/product/5f1aecc4603a84026eeb442b_tr_1601299226070.jpeg",
+    "price": "\u20ba14,70",
+    "amount": "55 g"
+},{
+    "name": "Cornetto Disc Coffee",
+    "img": "https://market-product-images-cdn.getirapi.com/product/f9f18f10-081e-4246-8cd5-4030973c114f.jpg",
+    "price": "\u20ba34,70",
+    "amount": "130 ml"
+},{
+    "name": "Cornetto Do\u011fruluk Mu Cesaret Mi",
+    "img": "https://market-product-images-cdn.getirapi.com/product/990fcc60-ff48-4fe3-bfef-d180008f0ca8.jpg",
+    "price": "\u20ba19,60",
+    "amount": "125 ml"
+},{
+    "name": "Cornetto A\u015fk Y\u0131ld\u0131z\u0131",
+    "img": "https://market-product-images-cdn.getirapi.com/product/32fc0097-f266-461c-bd53-46511dbe29e6.jpg",
+    "price": "\u20ba19,60",
+    "amount": "120 ml"
+},{
+    "name": "Cornetto Antep F\u0131st\u0131k",
+    "img": "https://market-product-images-cdn.getirapi.com/product/c62bcca1-271c-4b3b-a6b8-87fca3779265.jpg",
+    "price": "\u20ba34,70",
+    "amount": "130 ml"
+},{
+    "name": "Cornetto Kaymak",
+    "img": "https://market-product-images-cdn.getirapi.com/product/9c853045-8208-4271-8e3f-7e3a6513130c.jpg",
+    "price": "\u20ba24,70",
+    "amount": "125 ml"
+},{
+    "name": "Algida Keyif Kornet",
+    "img": "https://market-product-images-cdn.getirapi.com/product/b5df1d44-dfbc-4bb5-917b-72b337927251.jpg",
+    "price": "\u20ba14,80",
+    "amount": "110 ml"
+},{
+    "name": "Cornetto \u00c7ikolata",
+    "img": "https://market-product-images-cdn.getirapi.com/product/bae6e56c-09f1-40a9-b4a2-ed337f6b14f1.jpg",
+    "price": "\u20ba24,70",
+    "amount": "125 ml"
+},{
+    "name": "Cornetto Classico \u00dc\u00e7l\u00fcs\u00fc",
+    "img": "https://market-product-images-cdn.getirapi.com/product/4ce0a019-8358-40dd-94c2-b9838714472e.jpg",
+    "price": "\u20ba66,99",
+    "amount": "3 \u00dcr\u00fcn"
+},{
+    "name": "Cornetto Karamel",
+    "img": "https://market-product-images-cdn.getirapi.com/product/20d6c06e-3681-44f8-85e5-352eed2c9228.jpg",
+    "price": "\u20ba34,70",
+    "amount": "130 ml"
+},{
+    "name": "Cornetto Disc Milka",
+    "img": "https://market-product-images-cdn.getirapi.com/product/61b174ff-c7a3-41f6-bacd-597c905506c9.jpeg",
+    "price": "\u20ba34,70",
+    "amount": "130 ml"
+},{
+    "name": "Cornetto Oreo",
+    "img": "https://market-product-images-cdn.getirapi.com/product/9752515a-0149-4cdf-98a1-e1441f6797a4.jpg",
+    "price": "\u20ba34,70",
+    "amount": "130 ml"
+},{
+    "name": "Mara\u015f Usul\u00fc K\u00fclah",
+    "img": "https://market-product-images-cdn.getirapi.com/product/5b4f8c63-e1ff-464f-b701-89435c90847c.jpg",
+    "price": "\u20ba29,70",
+    "amount": "115 ml"
+},{
+    "name": "Fantasia Caramel Ring",
+    "img": "https://cdn.getir.com/product/60d08cd1bbb1a4168908cbf7_tr_1624345160161.jpeg",
+    "price": "\u20ba19,80",
+    "amount": "140 ml"
+},{
+    "name": "Fantasia Choco Ring",
+    "img": "https://cdn.getir.com/product/623da6704abfba83c57d05f3_tr_1648538383316.jpeg",
+    "price": "\u20ba32,20",
+    "amount": "140 ml"
+},{
+    "name": "Fantasia Tria Ring",
+    "img": "https://cdn.getir.com/product/623daacfee051607c123d6c1_tr_1648538729882.jpeg",
+    "price": "\u20ba32,20",
+    "amount": "140 ml"
+},{
+    "name": "Fantasia Black",
+    "img": "https://cdn.getir.com/product/5ef30d5c16e7e7cbbe21f6b9_tr_1592995937620.jpeg",
+    "price": "\u20ba14,70",
+    "amount": "125 ml"
+},{
+    "name": "Fantasia Galaxy",
+    "img": "https://cdn.getir.com/product/5ef31041d75e1776c3b2357b_tr_1592995987967.jpeg",
+    "price": "\u20ba24,80",
+    "amount": "125 ml"
+},{
+    "name": "Fantasia Sunshine",
+    "img": "https://cdn.getir.com/product/623dadef56232feb00094970_tr_1648538994012.jpeg",
+    "price": "\u20ba24,80",
+    "amount": "125 ml"
+},{
+    "name": "Fantasia Sakura",
+    "img": "https://cdn.getir.com/product/623dadc26ee27c5c56949f76_tr_1648562451168.jpeg",
+    "price": "\u20ba24,80",
+    "amount": "125 ml"
+},{
+    "name": "Golf Mara\u015f\u0131m Kornet Sade",
+    "img": "https://cdn.getir.com/product/5ef30986403a0f07a384dc5a_tr_1593162024012.jpeg",
+    "price": "\u20ba32,20",
+    "amount": "120 ml"
+},{
+    "name": "Pernigotti F\u0131nd\u0131k",
+    "img": "https://cdn.getir.com/product/5f57f1bb718d8fadfa499697_tr_1630572660809.jpeg",
+    "price": "\u20ba22,10",
+    "amount": "120 ml"
+},{
+    "name": "Pernigotti \u00c7ilek & \u00c7ikolata",
+    "img": "https://cdn.getir.com/product/5f57baec2092e494766f2acf_tr_1626416956539.jpeg",
+    "price": "\u20ba22,10",
+    "amount": "120 ml"
+},{
+    "name": "Pernigotti Karamel",
+    "img": "https://cdn.getir.com/product/5f57ee80f6deefa97e4aed04_tr_1626417077324.jpeg",
+    "price": "\u20ba22,10",
+    "amount": "120 ml"
+},{
+    "name": "Pernigotti Klasik",
+    "img": "https://cdn.getir.com/product/60aca7347fc16954bc3661c1_tr_1626417120372.jpeg",
+    "price": "\u20ba22,10",
+    "amount": "120 ml"
+},{
+    "name": "Dondurma K\u00fclah\u0131",
+    "img": "https://cdn.getir.com/product/5ce68c1afd9b330001c50677_tr_1560327592891.jpeg",
+    "price": "\u20ba18,99",
+    "amount": "10 Adet"
+},{
+    "name": "Twister Mini Forest & Island",
+    "img": "https://market-product-images-cdn.getirapi.com/product/a4c146e4-0d57-4413-be46-94735076fd20.jpg",
+    "price": "\u20ba48,99",
+    "amount": "8'li"
+},{
+    "name": "Magnum Mini Sunlover Badem",
+    "img": "https://market-product-images-cdn.getirapi.com/product/38b6a390-5956-46ac-a288-7634376f19d5.jpg",
+    "price": "\u20ba97,99",
+    "amount": "6'l\u0131"
+},{
+    "name": "Magnum Mini Classic",
+    "img": "https://market-product-images-cdn.getirapi.com/product/c3909772-1d37-4861-b330-0d40a54307b9.jpg",
+    "price": "\u20ba158,30",
+    "amount": "6'l\u0131"
+},{
+    "name": "Magnum Mini Classic & Badem",
+    "img": "https://market-product-images-cdn.getirapi.com/product/9606f540-a325-40af-8c87-9ac11122e98c.jpg",
+    "price": "\u20ba158,30",
+    "amount": "6'l\u0131"
+},{
+    "name": "Magnum Mini Badem",
+    "img": "https://market-product-images-cdn.getirapi.com/product/e92db542-1b3b-4ad0-bb94-a22281193e14.jpg",
+    "price": "\u20ba158,30",
+    "amount": "6'l\u0131"
+},{
+    "name": "Magnum Mini Cookie",
+    "img": "https://cdn.getir.com/product/5ff425ec2737728fff36554c_tr_1653657919674.jpeg",
+    "price": "\u20ba98,99",
+    "amount": "6'l\u0131"
+},{
+    "name": "Magnum Mini Cookie & Badem",
+    "img": "https://market-product-images-cdn.getirapi.com/product/4487d45f-5edd-4bd9-99f7-0d900ff4d3ff.jpg",
+    "price": "\u20ba158,30",
+    "amount": "6'l\u0131"
+},{
+    "name": "Magnum Mini Double Euphoria Badem",
+    "img": "https://market-product-images-cdn.getirapi.com/product/96fc2beb-019f-48bd-932d-0be6523e3a06.jpg",
+    "price": "\u20ba158,30",
+    "amount": "6'l\u0131"
+},{
+    "name": "Magnum Mini Karamel & Badem",
+    "img": "https://cdn.getir.com/product/5ff41b99738fb094ac517171_tr_1653658030130.jpeg",
+    "price": "\u20ba97,99",
+    "amount": "6'l\u0131"
+},{
+    "name": "Magnum Mini Double",
+    "img": "https://market-product-images-cdn.getirapi.com/product/1d862d3c-e577-4f05-92ea-ec3d89e1d746.jpg",
+    "price": "\u20ba158,30",
+    "amount": "6'l\u0131"
+},{
+    "name": "Magnum Mini D\u00fcet",
+    "img": "https://market-product-images-cdn.getirapi.com/product/1e54b524-b6a3-4f09-a13f-2f0fb05ccd83.jpg",
+    "price": "\u20ba97,99",
+    "amount": "6'l\u0131"
+},{
+    "name": "Bravo Junior F\u0131st\u0131k Badem",
+    "img": "https://market-product-images-cdn.getirapi.com/product/b068fe7f-7b24-4f71-92e6-34f2ee5222b9.jpg",
+    "price": "\u20ba158,30",
+    "amount": "6'l\u0131"
+},{
+    "name": "Bravo Junior Karadut Badem",
+    "img": "https://cdn.getir.com/product/60bf732254d79d06162929aa_tr_1634538672681.jpeg",
+    "price": "\u20ba158,30",
+    "amount": "6'l\u0131"
+},{
+    "name": "Bravo Junior Egzotik Seri",
+    "img": "https://cdn.getir.com/product/5ef323695044042479d8fdc5_tr_1599938981336.jpeg",
+    "price": "\u20ba182,99",
+    "amount": "6'l\u0131"
+},{
+    "name": "Golf Bravo Crazy Nutty",
+    "img": "https://cdn.getir.com/product/62d902564e3d2a7ab401e4c6_tr_1658394564925.jpeg",
+    "price": "\u20ba158,30",
+    "amount": "6'l\u0131"
+},{
+    "name": "Bravo Junior Crazy Fruity",
+    "img": "https://cdn.getir.com/product/628245aa69bd961949143dd0_tr_1652865624417.png",
+    "price": "\u20ba158,30",
+    "amount": "6'l\u0131"
+},{
+    "name": "Algida Mini Nogger 6'l\u0131",
+    "img": "https://market-product-images-cdn.getirapi.com/product/a7b0042a-db8d-4757-84fd-d51aa990e66f.jpg",
+    "price": "\u20ba118,70",
+    "amount": "360 ml"
+},{
+    "name": "Pernigotti Klasik & F\u0131st\u0131kl\u0131",
+    "img": "https://cdn.getir.com/product/5f55f2a587ced996466c74a9_tr_1599722130837.octet-stream",
+    "price": "\u20ba54,50",
+    "amount": "6'l\u0131"
+},{
+    "name": "Algida Mara\u015f Tel Kaday\u0131f",
+    "img": "https://market-product-images-cdn.getirapi.com/product/5e0d5c94-b6d5-4f44-9f9a-6f916b40f81a.jpg",
+    "price": "\u20ba108,80",
+    "amount": "500 ml"
+},{
+    "name": "Pela Balkaba\u011f\u0131 & Kurabiye",
+    "img": "https://market-product-images-cdn.getirapi.com/product/04e6cb81-ee91-4d7f-8ce1-cf143312fd94.jpg",
+    "price": "\u20ba32,40",
+    "amount": "125 ml"
+},{
+    "name": "Pela Sade Gelato",
+    "img": "https://market-product-images-cdn.getirapi.com/product/f94a43e3-4476-4d7d-bb97-fa4ee903a492.jpg",
+    "price": "\u20ba32,40",
+    "amount": "125 ml"
+},{
+    "name": "Pela \u00c7ikolatal\u0131 Gelato",
+    "img": "https://market-product-images-cdn.getirapi.com/product/eead7e63-f68b-4350-bfe8-870464d393c4.jpg",
+    "price": "\u20ba32,40",
+    "amount": "125 ml"
+},{
+    "name": "Pela Limon Sorbe",
+    "img": "https://market-product-images-cdn.getirapi.com/product/3dea1a08-47c0-4b68-92b9-0a2823ad9856.jpg",
+    "price": "\u20ba32,40",
+    "amount": "125 ml"
+},{
+    "name": "Pela \u00c7ilek Sorbe",
+    "img": "https://market-product-images-cdn.getirapi.com/product/244207bf-8345-4f2d-972d-7f5ac274d85d.jpg",
+    "price": "\u20ba32,40",
+    "amount": "125 ml"
+},{
+    "name": "Pela Balkaba\u011f\u0131 & Kurabiye",
+    "img": "https://market-product-images-cdn.getirapi.com/product/d942051c-7aef-4117-999d-0167b27311f1.jpg",
+    "price": "\u20ba91,20",
+    "amount": "450 ml"
+},{
+    "name": "Pela Sade Gelato",
+    "img": "https://market-product-images-cdn.getirapi.com/product/5b30bdeb-ab28-4533-960c-d2a4e6a6df2d.jpg",
+    "price": "\u20ba91,20",
+    "amount": "450 ml"
+},{
+    "name": "Pela \u00c7ikolatal\u0131 Gelato",
+    "img": "https://market-product-images-cdn.getirapi.com/product/2f381264-aa06-4c84-b300-620d8c4d0682.jpg",
+    "price": "\u20ba91,20",
+    "amount": "450 ml"
+},{
+    "name": "Pela Limon Sorbe",
+    "img": "https://market-product-images-cdn.getirapi.com/product/36a4f367-311d-4879-aa8d-a526f65dd5f2.jpg",
+    "price": "\u20ba91,20",
+    "amount": "450 ml"
+},{
+    "name": "Pela \u00c7ilek Sorbe",
+    "img": "https://market-product-images-cdn.getirapi.com/product/e1639afe-630e-4ddf-9bff-07990bf82fda.jpg",
+    "price": "\u20ba91,20",
+    "amount": "450 ml"
+},{
+    "name": "Do Kurabiye & Karamel",
+    "img": "https://cdn.getir.com/product/613b02f74f17c357ff617d8b_tr_1638958575254.jpeg",
+    "price": "\u20ba123,80",
+    "amount": "440 ml"
+},{
+    "name": "Do \u00c7ikolatal\u0131",
+    "img": "https://cdn.getir.com/product/5f1ffc3b271fd1231d880904_tr_1638958635746.jpeg",
+    "price": "\u20ba94,10",
+    "amount": "440 ml"
+},{
+    "name": "Do Ball\u0131 Muzlu S\u00fctl\u00fc",
+    "img": "https://cdn.getir.com/product/5f1ffdd3271fd1ae48880944_tr_1638958716093.jpeg",
+    "price": "\u20ba123,80",
+    "amount": "450 ml"
+},{
+    "name": "Do \u00c7ikolata Brownie",
+    "img": "https://market-product-images-cdn.getirapi.com/product/f3385337-b449-4670-abea-bb0b3a4b1a71.jpg",
+    "price": "\u20ba123,80",
+    "amount": "440 ml"
+},{
+    "name": "Carte D'or Meyve R\u00fcyas\u0131",
+    "img": "https://market-product-images-cdn.getirapi.com/product/894f2563-4646-4897-a558-84b827059bff.jpg",
+    "price": "\u20ba17,60",
+    "amount": "110 ml"
+},{
+    "name": "Carte D'or \u00c7ikolata R\u00fcyas\u0131",
+    "img": "https://market-product-images-cdn.getirapi.com/product/9e7cc75c-3225-480a-94d0-1e1b5e41bb7e.jpg",
+    "price": "\u20ba17,60",
+    "amount": "110 ml"
+},{
+    "name": "Carte d'Or Selection Patisserie",
+    "img": "https://market-product-images-cdn.getirapi.com/product/f015a7a8-569c-47b4-a21c-4dec0e43c6c6.jpg",
+    "price": "\u20ba138,50",
+    "amount": "800 ml"
+},{
+    "name": "Carte d'Or Selection A\u015fk\u0131n B\u00fcy\u00fcs\u00fc",
+    "img": "https://market-product-images-cdn.getirapi.com/product/dbcfe624-9ebc-41c4-aa46-b256a4046a5d.jpg",
+    "price": "\u20ba138,50",
+    "amount": "800 ml"
+},{
+    "name": "Carte d'Or Extra Barista",
+    "img": "https://market-product-images-cdn.getirapi.com/product/8710a6f2-add3-4c2d-809d-f0d2243c49f2.jpg",
+    "price": "\u20ba128,60",
+    "amount": "850 ml"
+},{
+    "name": "Carte d'Or Selection Gold",
+    "img": "https://market-product-images-cdn.getirapi.com/product/36e941d1-1c1a-4fde-a00a-3c3689f663d6.jpg",
+    "price": "\u20ba90,70",
+    "amount": "800 ml"
+},{
+    "name": "Carte d'Or \u0130svi\u00e7re \u00c7ikolatas\u0131",
+    "img": "https://market-product-images-cdn.getirapi.com/product/6cb4f8a0-c24d-47e8-ae93-4922959a3864.jpg",
+    "price": "\u20ba128,60",
+    "amount": "850 ml"
+},{
+    "name": "Carte d'Or Classic Extra Bal Badem",
+    "img": "https://market-product-images-cdn.getirapi.com/product/1abe9e14-1b33-42b6-9697-64a5bcd888a5.jpg",
+    "price": "\u20ba128,60",
+    "amount": "850 ml"
+},{
+    "name": "Carte d'Or Classic Extra Vi\u015fneli",
+    "img": "https://market-product-images-cdn.getirapi.com/product/89c9901a-7249-43c2-9c81-2e835967d3cc.jpg",
+    "price": "\u20ba128,60",
+    "amount": "850 ml"
+},{
+    "name": "Carte d'Or Classic Extra Cookie",
+    "img": "https://cdn.getir.com/product/601be38c9ea47d09ccc13774_953f215f-209f-4f49-8ab6-0f633df61421.jpeg",
+    "price": "\u20ba87,99",
+    "amount": "850 ml"
+},{
+    "name": "Carte d'Or Classic F\u0131st\u0131kl\u0131",
+    "img": "https://market-product-images-cdn.getirapi.com/product/a4ee7c2e-233e-495b-a878-70c259fe051c.jpg",
+    "price": "\u20ba128,60",
+    "amount": "850 ml"
+},{
+    "name": "Carte d'Or \u00c7ikolata",
+    "img": "https://market-product-images-cdn.getirapi.com/product/16c1953c-d2f1-48f1-904d-b41b503061db.jpg",
+    "price": "\u20ba138,50",
+    "amount": "800 ml"
+},{
+    "name": "Carte d'Or Meyve \u015e\u00f6leni",
+    "img": "https://market-product-images-cdn.getirapi.com/product/7d94ae5c-c0db-4991-9603-817ea287b91a.jpg",
+    "price": "\u20ba138,50",
+    "amount": "800 ml"
+},{
+    "name": "Carte d'Or Karamel",
+    "img": "https://cdn.getir.com/product/5ec4000ca87601300e173dfa_tr_1590157482135.jpeg",
+    "price": "\u20ba138,50",
+    "amount": "800 ml"
+},{
+    "name": "Carte d'Or Chocolatier Vi\u015fne",
+    "img": "https://cdn.getir.com/product/5e172d80037029312a4c0e8b_tr_1579158310187.jpeg",
+    "price": "\u20ba90,70",
+    "amount": "750 ml"
+},{
+    "name": "Algida Frigola",
+    "img": "https://market-product-images-cdn.getirapi.com/product/ab9c16cb-2f3d-40ba-b874-05d3aa832901.jpg",
+    "price": "\u20ba48,99",
+    "amount": "570 ml"
+},{
+    "name": "Algida Boom Boom Kat Kat",
+    "img": "https://market-product-images-cdn.getirapi.com/product/525c55e0-e159-4408-8286-f04d1c7bce4e.jpg",
+    "price": "\u20ba83,99",
+    "amount": "570 ml"
+},{
+    "name": "Carte d'Or Cheesecake",
+    "img": "https://cdn.getir.com/product/61ee9ca1acadf70385155a80_tr_1643129730587.jpeg",
+    "price": "\u20ba90,70",
+    "amount": "485 ml"
+},{
+    "name": "Algida Karlar \u00dclkesi",
+    "img": "https://market-product-images-cdn.getirapi.com/product/649ca569-8527-4939-9d46-9c4e5b514008.jpg",
+    "price": "\u20ba58,70",
+    "amount": "800 ml"
+},{
+    "name": "Algida Twister Forest",
+    "img": "https://market-product-images-cdn.getirapi.com/product/14fb10b1-9a7c-4376-9173-c7e805de548d.jpg",
+    "price": "\u20ba44,00",
+    "amount": "750 ml"
+},{
+    "name": "Algida Keyif Kakao Vanilya",
+    "img": "https://market-product-images-cdn.getirapi.com/product/f44c9125-680f-44dd-92c1-a5ef4ec199a1.jpg",
+    "price": "\u20ba59,30",
+    "amount": "750 ml"
+},{
+    "name": "Royal Tartufo Bitter \u00c7ikolata",
+    "img": "https://market-product-images-cdn.getirapi.com/product/959b808e-7ae3-4709-a05d-d4d68b5fdeb2.jpg",
+    "price": "\u20ba133,60",
+    "amount": "850 ml"
+},{
+    "name": "Royal Vegan Limon & Karadut",
+    "img": "https://market-product-images-cdn.getirapi.com/product/5b96b658-78ad-46cd-9a9f-72559676a5ed.jpg",
+    "price": "\u20ba153,40",
+    "amount": "850 ml"
+},{
+    "name": "Royal Yaz Ferahl\u0131\u011f\u0131",
+    "img": "https://market-product-images-cdn.getirapi.com/product/8c852961-46ee-4c2c-a76e-53fadd047084.jpg",
+    "price": "\u20ba133,60",
+    "amount": "850 ml"
+},{
+    "name": "Royal Afyon \u00c7ay Vi\u015fnesi",
+    "img": "https://cdn.getir.com/product/6090f8b9f77a61e1cbf1a832_tr_1620310475914.jpeg",
+    "price": "\u20ba133,60",
+    "amount": "850 ml"
+},{
+    "name": "Royal Madagaskar Vanilyas\u0131",
+    "img": "https://cdn.getir.com/product/5ef32871365fb13f7bda8ee3_tr_1634538385219.jpeg",
+    "price": "\u20ba66,99",
+    "amount": "850 ml"
+},{
+    "name": "Royal Meyve Sepeti",
+    "img": "https://cdn.getir.com/product/5ef329ea2163d982e5b49fd5_tr_1603051783742.jpeg",
+    "price": "\u20ba133,60",
+    "amount": "850 ml"
+},{
+    "name": "Mara\u015f Usul\u00fc Cup",
+    "img": "https://market-product-images-cdn.getirapi.com/product/390f5ae5-8f0d-4d76-8a3c-e4f22cfc8892.jpg",
+    "price": "\u20ba19,80",
+    "amount": "105 ml"
+},{
+    "name": "Mara\u015f Usul\u00fc Sade",
+    "img": "https://market-product-images-cdn.getirapi.com/product/ae091361-34e1-471f-a4fa-5f48287b486b.jpg",
+    "price": "\u20ba98,99",
+    "amount": "500 ml"
+},{
+    "name": "Mara\u015f Usul\u00fc \u00c7ikolatal\u0131",
+    "img": "https://market-product-images-cdn.getirapi.com/product/82de62d6-4869-447d-ada2-2751127e09aa.jpg",
+    "price": "\u20ba98,99",
+    "amount": "500 ml"
+},{
+    "name": "Mara\u015f Usul\u00fc F\u0131st\u0131kl\u0131",
+    "img": "https://market-product-images-cdn.getirapi.com/product/7354df77-7667-446f-b106-7ad6d7c9a058.jpg",
+    "price": "\u20ba108,80",
+    "amount": "500 ml"
+},{
+    "name": "Mara\u015f Usul\u00fc \u00c7ifte D\u00f6vme",
+    "img": "https://market-product-images-cdn.getirapi.com/product/d8caea90-d0b7-403c-9fa6-3901f15dbf8c.jpg",
+    "price": "\u20ba108,80",
+    "amount": "500 ml"
+},{
+    "name": "Algida Mara\u015f Bol Kaymak",
+    "img": "https://market-product-images-cdn.getirapi.com/product/1b32d2e2-6087-4ced-9e04-91ba2e9d2ca3.jpg",
+    "price": "\u20ba108,80",
+    "amount": "500 ml"
+},{
+    "name": "Golf Mara\u015f\u0131m Sade",
+    "img": "https://cdn.getir.com/product/5ef3140c6b28dc4894aaec11_tr_1592994174573.jpeg",
+    "price": "\u20ba118,70",
+    "amount": "500 ml"
+},{
+    "name": "Golf Mara\u015f\u0131m \u00c7ikolata Sade",
+    "img": "https://cdn.getir.com/product/602f59815fdd075614da5cff_tr_1613725181805.jpeg",
+    "price": "\u20ba118,70",
+    "amount": "500 ml"
+},{
+    "name": "Golf Mara\u015f\u0131m F\u0131st\u0131k Sade",
+    "img": "https://cdn.getir.com/product/615ee39c3f9c3313db7864e2_tr_1633706188832.jpeg",
+    "price": "\u20ba118,70",
+    "amount": "500 ml"
+},{
+    "name": "Algida Viennetta \u00c7ikolata",
+    "img": "https://market-product-images-cdn.getirapi.com/product/b62bbad5-428b-4ac0-bab7-235036d6710f.jpg",
+    "price": "\u20ba113,80",
+    "amount": "800 ml"
+},{
+    "name": "Algida Viennetta Karamel",
+    "img": "https://cdn.getir.com/product/61ee89c231628e378642fa63_tr_1643111542509.jpeg",
+    "price": "\u20ba78,30",
+    "amount": "800 ml"
+},{
+    "name": "Atelier Gelarto \u00c7ikolata",
+    "img": "https://cdn.getir.com/product/5ff441e6f306a5bc887ee8b7_9c0dbd86-4641-4ebc-a75a-653e2585d9c1.jpeg",
+    "price": "\u20ba108,80",
+    "amount": "430 ml"
+},{
+    "name": "Atelier Gelarto Vanilya",
+    "img": "https://cdn.getir.com/product/5ff431919e680f3634725edd_ea6f46d3-8f4c-4200-9549-0376aa65ab77.jpeg",
+    "price": "\u20ba108,80",
+    "amount": "430 ml"
+},{
+    "name": "Atelier Gelarto Bel\u00e7ika Bisk\u00fcvisi",
+    "img": "https://cdn.getir.com/product/61eea23ba22f1e452bc84dfa_tr_1643194684906.jpeg",
+    "price": "\u20ba108,80",
+    "amount": "430 ml"
+},{
+    "name": "Danone Sorbe Karadut Limon",
+    "img": "https://cdn.getir.com/product/5f92900fbf00cb0f5556fdb2_tr_1612167363435.jpeg",
+    "price": "\u20ba34,70",
+    "amount": "450 ml"
+},{
+    "name": "Danone \u00c7ilek & Hindistan Cevizi",
+    "img": "https://cdn.getir.com/product/5f9291e3ab16101f5cec4b51_tr_1612167347952.jpeg",
+    "price": "\u20ba34,70",
+    "amount": "450 ml"
+},{
+    "name": "Pernigotti S\u00fctl\u00fc \u00c7ikolatal\u0131",
+    "img": "https://cdn.getir.com/product/5f58dc6760ef43633e8d4b68_tr_1614933343048.jpeg",
+    "price": "\u20ba24,80",
+    "amount": "175 ml"
+},{
+    "name": "Pernigotti Vanilya",
+    "img": "https://cdn.getir.com/product/5f58e1df2981936884ce1028_tr_1614933331739.jpeg",
+    "price": "\u20ba44,10",
+    "amount": "175 ml"
+},{
+    "name": "Pernigotti Antep F\u0131st\u0131kl\u0131",
+    "img": "https://cdn.getir.com/product/5f58d9f623870ea3f9da36b2_tr_1614933319938.jpeg",
+    "price": "\u20ba44,10",
+    "amount": "175 ml"
+},{
+    "name": "Magnum Crack Badem",
+    "img": "https://market-product-images-cdn.getirapi.com/product/a9714841-1dc0-408a-9394-5cab90d3cedb.jpg",
+    "price": "\u20ba168,20",
+    "amount": "440 ml"
+},{
+    "name": "Algida Milka Cup",
+    "img": "https://cdn.getir.com/product/605a03ee13f01f45abb3dc28_tr_1619465350377.jpeg",
+    "price": "\u20ba7,80",
+    "amount": "105 ml"
+},{
+    "name": "Golf Mara\u015f\u0131m Cup Sade",
+    "img": "https://cdn.getir.com/product/6059e21547da621304431421_tr_1647500207850.jpeg",
+    "price": "\u20ba22,30",
+    "amount": "100 ml"
+},{
+    "name": "Ice Dream Antep F\u0131st\u0131kl\u0131",
+    "img": "https://market-product-images-cdn.getirapi.com/product/5aadcf13-2a90-4178-b626-74ddf0e96115.jpg",
+    "price": "\u20ba39,60",
+    "amount": "450 ml"
+},{
+    "name": "Dondurma K\u00fclah\u0131",
+    "img": "https://cdn.getir.com/product/5ce68c1afd9b330001c50677_tr_1560327592891.jpeg",
+    "price": "\u20ba18,99",
+    "amount": "10 Adet"
+},{
+    "name": "Koska Ka\u011f\u0131t Helva",
+    "img": "https://cdn.getir.com/product/5ce68be4fd9b330001c505f5_tr_1564992163547.jpeg",
+    "price": "\u20ba83,99",
+    "amount": "140 g"
+},{
+    "name": "Metaltex Dondurma Ka\u015f\u0131\u011f\u0131",
+    "img": "https://cdn.getir.com/product/5a425fa29aca730004a5e7cc_tr_1634538510393.jpeg",
+    "price": "\u20ba96,99",
+    "amount": "Metal"
+},{
+    "name": "Kent Boringer \u00c7ikolatal\u0131 Sos",
+    "img": "https://cdn.getir.com/product/6257d1a2bd788e2a16a74dc5_tr_1650352193015.jpeg",
+    "price": "\u20ba45,99",
+    "amount": "300 g"
+},{
+    "name": "Kent Boringer Meyveli Sos",
+    "img": "https://cdn.getir.com/product/6257d1db552d6f0a3a1ad25d_tr_1650352159940.jpeg",
+    "price": "\u20ba45,99",
+    "amount": "320 g"
+} ]
